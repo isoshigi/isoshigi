@@ -47,7 +47,7 @@ Tools: Vue.js, Cloudflare Pages
 
 ### 音楽記述DSL「kasaNE」を作った
 
-- CS集会 2026/01/27
+- CS集会 2026/01/27 https://youtu.be/Snomij5o5aY
 
 Chord as Codeを実現するために自作した音楽記述言語「kasaNE」の紹介。
 
