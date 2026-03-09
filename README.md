@@ -33,6 +33,11 @@ https://github.com/KaungSetLinn/FlowMatic
 
 Tools: Python, Django Rest Framework, SQLite
 
+### ゲーム制作を通じたプログラミング学習支援
+
+プログラミング経験の浅い友人に学習サポートを提供。
+友人の作成したいゲームを作成しながら、大まかな学習方針やオブジェクト指向の概念からgitやIDEなどツール個別の使い方までサポート。
+
 ### Grid x Greed
 
 https://github.com/isoshigi/grid_x_greed
