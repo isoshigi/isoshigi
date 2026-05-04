@@ -13,6 +13,8 @@ https://blog.isoshigi.dev
 私が完璧主義によって失敗を恐れてしまう問題を解決するために開発。
 プロダクトの提供する価値を最大化するための思考の訓練などにも使用。
 
+Tools: TypeScript, Astro, Cloudflare Workers Static Assets
+
 ### F社基幹システム(構築中)
 
 F社の販売管理/在庫管理システム
