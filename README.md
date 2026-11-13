@@ -1,5 +1,13 @@
 # isoshigi
 
+照内颯馬 (soma teruchi) / 28卒の専門学生
+
+技術的なアウトプットを小さく継続することを目指しています。
+
+- Blog: [いそしぎ忘備録](https://blog.isoshigi.dev)
+- X: [@isoshigicchi](https://x.com/isoshigicchi)
+- GitHub: [@isoshigi](https://github.com/isoshigi)
+
 ---
 
 ## works
@@ -16,6 +24,24 @@ https://blog.isoshigi.dev
 結果、ブログでの継続的なアウトプットが可能になりました。この経験から、自己の特性を否定せず仕組みで課題を迂回・解決するアプローチの有効性を学びました。
 
 Tools: TypeScript, Astro, Cloudflare Workers Static Assets
+
+### emela (contribution)
+
+https://github.com/emela-lang/emela
+
+「first-class effect」をサポートする実験的関数型プログラミング言語。WebAssembly / JavaScript / C へコンパイルされます。
+主に WebAssembly バックエンドの実装・メンテナンスを担当しています。
+
+Tools: Rust
+
+### imagawayaki-util
+
+https://github.com/isoshigi/imagawayaki-util
+
+今川焼、大判焼き、御座候、その他多様な名称があることで知られる食品の名称を適切に取り扱うためのRuby gem。
+VRChat.rb等の発表・活動の中で開発・紹介しました。
+
+Tools: Ruby
 
 ### 有志で立ち上げた企業の基幹システム(構築中)
 
@@ -64,6 +90,38 @@ Tools: Vue.js, Cloudflare Pages
 ---
 
 ## LTs
+
+技術・学術系イベントHubでの発表一覧: https://vrc-ta-hub.com/event/detail/history/?speaker=isoshigi
+
+### 新しいプログラミング言語「emela」にHTTP通信を実装してGET /pingしたい
+
+- Google Devs' Innovative Crosstalk (GDG Greater Kwansai) 2026/08/02 https://gdgkwansai.connpass.com/event/395360/
+
+基本仕様がまだドラフト段階の新しいプログラミング言語「emela」にHTTP通信機能を実装し、Google CloudのCloud Runにデプロイするまでの過程に関する発表。
+
+### Ruby初学者が感じた「関西Ruby会議」の熱気と繋がる楽しさ！
+
+- VRChat.rb 2026/07/21 https://www.youtube.com/watch?v=ERm_CdDnTSE
+
+Ruby初学者の視点から見た「関西Ruby会議」の熱気と、コミュニティで繋がる楽しさに関する発表。
+
+### 今川焼、大判焼き、御座候、その他多様な名称があることで知られる食品の名称を適切に取り扱うためのgem "imagawayaki-util"
+
+- VRChat.rb 2026/07/21 https://www.youtube.com/watch?v=-Rqbgw2EdEk
+
+地域や呼び名によって異なる今川焼等の名称問題を解決する、自作Ruby gem「imagawayaki-util」の紹介。
+
+### 関ヶ原Ruby会議01参陣の感想
+
+- VRChat.rb 2026/06/09
+
+天下分け目の地で開催された関ケ原Ruby会議01に参加した感想と武将語訳の発表。
+
+### なぜブログを作ったのか、なぜAstroなのか
+
+- CS集会 2026/05/19
+
+中間成果物から知見を抽出し物語として完成させる思想と、それを支える技術スタック（Astro/MDX/Tailwind/Cloudflare）の選定理由に関する発表。
 
 ### 音楽記述DSL「kasaNE」を作った
 
